@@ -7,6 +7,7 @@ Using MySQL for database management, Excel for initial data cleaning and aggrega
 
 ⚙️ Technology Stack
 Tool / Technology	Purpose
+
 MySQL	Data storage, query execution, and aggregation of transactional datasets
 Power BI	Data visualization and automated dashboard reporting
 Microsoft Excel	Data preprocessing, cleaning, and exploratory analysis
@@ -17,7 +18,7 @@ The dataset consists of 11,000+ records with the following key attributes:
 Order ID
 Product Name
 Category / Segment
-Region & Country (5 countries analyzed)
+Region & Country 
 Sales Amount
 Discount (%)
 Profit
@@ -25,6 +26,7 @@ Units Sold
 Order Date (Month, Year)
 
 🧩 Key Insights & Reports
+
 1️⃣ Sales Report
 Evaluated total and average sales across multiple countries, products, and segments.
 Monthly trend analysis showing sales growth or decline.
