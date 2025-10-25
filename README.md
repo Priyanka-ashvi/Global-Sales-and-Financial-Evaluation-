@@ -49,3 +49,8 @@ Sum of Discount by Month	Monthly discount trend to assess pricing strategy impac
 Sum of Sales by Segment	Sales distribution across segments (Consumer, Corporate, Home Office, etc.)
 Profit Margin (%)	(Profit / Sales) × 100 to identify high-profit categories
 Units Sold	Number of items sold per product and region.
+
+https://github.com/user-attachments/assets/12d5f7b7-d13e-415e-9377-19183681e145
+
+
+
